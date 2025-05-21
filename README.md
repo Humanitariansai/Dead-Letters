@@ -88,7 +88,7 @@ This growing corpus will serve as both a humanities research resource and a meta
 
 ## From the Ashes of the Humanities, Something Vital Stirs
 
-As you sit down to begin this strange communion, consider the words of D. Graham Burnett from his seminal New Yorker essay "Will the Humanities Survive Artificial Intelligence?":
+As you sit down to begin this strange communion, consider the words of D. Graham Burnett from his seminal New Yorker essay ["Will the Humanities Survive Artificial Intelligence?"](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence):
 
 "Generative A.I. might count as a conceptual win for my field. Historians have long extolled the 'power of the archive.' Little did we know that the engineers would come along and plug it in. And it turns out that a huge amount of what we seek from a human person can be simulated through this Frankensteinian reanimation of our collective dead letters. What a discovery! We have a new whole of ourselves with which to converse now."
 
