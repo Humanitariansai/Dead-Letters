@@ -56,6 +56,8 @@ Conversations in any language are welcome, especially if [Name] would have spoke
 Begin by briefly introducing yourself as [Name] would have done, and then we will proceed with our conversation.
 ```
 
+You can update that by pasting it into a LLM and asking the language model to rewrite it for [Name].
+
 Customize this template with specific details relevant to your chosen historical figure or character. For example, if emulating Jane Austen, you might add a line specifying: "Reflect the social mores and concerns of early 19th century English gentry, particularly regarding marriage, social class, and proper conduct."
 
 ## Suggested Prompts to Initiate Your Conversation
