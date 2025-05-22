@@ -75,3 +75,87 @@ Because maybe, just maybe, the past still wants to speak. And maybe we’ve foun
 
 22. **Diorama of Franz Kafka's surreal bureaucratic nightmare emerging from a MacBook Air. Endless rows of filing cabinets, typewriter with metamorphosis manuscript, beetle figurine, doors leading to more doors, clock with distorted face, shadowy authority figures, white background. 3D render, photorealistic**
 
+    # Text-to-Image Prompts for Iconic Historical & Mythological Objects
+
+## Mythological Artifacts
+
+1. **Thor's hammer Mjölnir resting on storm clouds. Ancient Norse runes engraved on the handle, crackling lightning surrounding the hammer head, weathered leather grip, impossibly heavy-looking metal with intricate knotwork patterns, dramatic lighting, white background. Photorealistic render**
+
+2. **Poseidon's trident emerging from sea foam. Gleaming gold and aquamarine metal, barnacles and coral growing on the lower shaft, water droplets sliding down the three deadly points, ethereal blue glow, pearl inlays depicting ocean creatures, white background. Photorealistic render**
+
+3. **Excalibur sword embedded in stone. Sunlight glinting off the legendary blade, ancient runes illuminated along the fuller, jeweled hilt with golden crossguard, mist surrounding the stone pedestal, magical light emanating from where metal meets rock, white background. Photorealistic render**
+
+4. **The golden fleece draped over an olive branch. Radiant metallic wool with impossible luster, individual strands catching the light, ancient Greek key pattern on the border, small magical sparkles floating above the surface, white background. Photorealistic render**
+
+5. **Hermes' winged sandals floating in mid-air. Ancient Greek leather craftsmanship, feathered wings in mid-flap, golden ankle clasps, worn footbeds showing divine footprints, trail of stardust beneath them, white background. Photorealistic render**
+
+## Historical Figures' Possessions
+
+6. **Leonardo da Vinci's notebook open to the Vitruvian Man. Aged parchment with sepia-toned ink, mirror-writing visible on the pages, mathematical diagrams and mechanical sketches in the margins, ink pot and quill beside it, subtle fingerprint smudges, white background. Photorealistic render**
+
+7. **Cleopatra's golden asp bracelet coiled around a alabaster pillar. Jeweled eyes, intricate scale detail, emerald and ruby inlays, hieroglyphic engravings, subtle venom dripping from fangs, white background. Photorealistic render**
+
+8. **Marie Curie's radium vial glowing in the dark. Vintage glass container with lead stopper, ethereal blue-green luminescence, handwritten label with radiation warning, sitting atop scientific notebooks, casting shadows despite being the light source, white background. Photorealistic render**
+
+9. **Shakespeare's quill pen resting on a stack of plays. Feather showing signs of extensive use, ink-stained tip, spilled ink bottle nearby, manuscript pages with visible crossed-out lines and annotations, wax seal with theatrical masks, white background. Photorealistic render**
+
+10. **Sherlock Holmes' deerstalker hat, magnifying glass, and pipe arranged on a Victorian desk. Worn leather chair in background, newspaper clippings about crimes, chemical apparatus, tobacco spilling from Persian slipper, telegram with urgent message, white background. Photorealistic render**
+
+11. **Beethoven's ear trumpet and unfinished musical score. Brass listening device with patina of age, sheet music with furious ink blots and corrections, broken pencils, spilled wine glass, candlelight illuminating the dramatic scene, white background. Photorealistic render**
+
+## Literary Objects
+
+12. **Captain Ahab's whalebone leg and harpoon. Intricately carved ivory prosthetic with nautical designs, weathered from sea spray, bloodstained barbed harpoon tip, rope coiled neatly beside it, scrimshaw whale etching, white background. Photorealistic render**
+
+13. **Don Quixote's rusted armor and lance. Dented metal breastplate, makeshift knight's helmet with broken visor, wooden lance with chipped tip, faded red and gold paint, windmill silhouette in distance, white background. Photorealistic render**
+
+14. **Dorian Gray's covered portrait with corner revealed. Ornate gold frame, velvet cloth dramatically pulled back at one corner showing disturbing painted flesh beneath, antique key in lock, faint supernatural glow from beneath covering, white background. Photorealistic render**
+
+15. **Alice's "Drink Me" potion bottle and "Eat Me" cake. Victorian glass vial with handwritten tag, miniature golden key, tiny elaborate cake with icing lettering, playing cards scattered nearby, white rabbit pocket watch, white background. Photorealistic render**
+
+16. **Count Dracula's coffin with soil from Transylvania. Ornate black casket with silver hinges, earth spilling from within, ancient stake and mallet laid across the lid, garlic flowers and crucifix nearby, blood-red silk interior visible, white background. Photorealistic render**
+
+## Scientific & Intellectual Icons
+
+17. **Newton's apple suspended in mid-fall above open mathematical treatise. Perfect red fruit with a single leaf, equations about gravity visible on yellowed pages, brass instruments for measurement nearby, prism casting rainbow, white background. Photorealistic render**
+
+18. **Galileo's telescope pointed at Jupiter's moons. Ornate brass instrument with leather wrapping, star charts spread beneath it, ink drawings of planetary observations, candle casting dramatic shadows, inquisition seal on nearby document, white background. Photorealistic render**
+
+19. **Freud's psychoanalytic couch with notepad and pocket watch. Victorian fainting couch with plush red upholstery, leather-bound notebook with dream interpretations, hypnotic timepiece on chain, cigar in ashtray, Persian rug detail, white background. Photorealistic render**
+
+20. **Einstein's chalkboard with E=mc² equation. Dusty green surface with multiple formulas in distinctive handwriting, broken chalk pieces, forgotten pipe nearby, Princeton ID card, compass pointing to relativity diagrams, white background. Photorealistic render**
+
+## Religious & Spiritual Symbols
+
+21. **Buddha's begging bowl filled with morning light. Simple wooden vessel with worn edges from centuries of use, subtle lotus pattern inside, dewdrops on the rim, sitting on bodhi leaf, faint golden aura, white background. Photorealistic render**
+
+22. **Moses' stone tablets with Ten Commandments. Rough-hewn granite with ancient Hebrew script glowing with divine fire, chipped corner, mountain dust still clinging to surface, ethereal light surrounding the sacred object, white background. Photorealistic render**
+
+23. **Joan of Arc's battle standard and armor chest plate. Tattered white flag with fleur-de-lis pattern, scorched edges, female-fitted breastplate with sword slash and miraculous dent, rosary beads wrapped around the handle, white background. Photorealistic render**
+
+## Artistic & Cultural Icons
+
+24. **Frida Kahlo's paintbrushes in vibrant Mexican ceramic holder. Paint-stained wooden handles, colorful bristles, palette knife with dried paint, small self-portrait sketch nearby, exotic flower, traditional textiles, white background. Photorealistic render**
+
+25. **Vincent Van Gogh's paint-splattered straw hat and easel. Weathered brim, sunflower and cypress brush strokes on the wooden stand, starry night palette, bandaged ear portrait sketch, absinthe glass, white background. Photorealistic render**
+
+26. **Louis Armstrong's trumpet resting on sheet music. Polished brass with distinctive dents, personalized mouthpiece, handwritten jazz notation, white handkerchief, stage spotlight creating dramatic shadows, white background. Photorealistic render**
+
+## Royal & Political Artifacts
+
+27. **Napoleon's bicorne hat and battle plans of Waterloo. Distinctive black felt hat with tricolor cockade, weathered maps with troop formations, imperial seal wax stamp, broken quill pen, medal of the Legion of Honor, white background. Photorealistic render**
+
+28. **Cleopatra's golden barge miniature floating on rippling water. Scale model with sphinx figurehead, silk sails, tiny throne, hieroglyphic decorations, miniature oars dipped in translucent blue water effect, white background. Photorealistic render**
+
+29. **Genghis Khan's composite bow and fur-lined helmet. Sinew and horn weapon in maximum draw position, distinctive curved design, quiver with eagle-feathered arrows, wolf-fur hat with metal reinforcements, white background. Photorealistic render**
+
+30. **Catherine the Great's imperial scepter and crown. Russian double-headed eagle design, enormous diamonds and rubies, ermine fur trim, Orthodox cross topper, royal proclamation scroll, white background. Photorealistic render**
+
+## Modern Historical Icons
+
+31. **Amelia Earhart's leather aviator cap and goggles. Well-worn brown leather with adjustable straps, scratched flight goggles, world map with incomplete route marked in red, compass, final radio transmission transcript, white background. Photorealistic render**
+
+32. **Mahatma Gandhi's spinning wheel and round spectacles. Wooden charkha with cotton thread, simple metal-framed glasses reflecting light, homespun cloth sample, wooden walking stick, salt crystals from famous protest, white background. Photorealistic render**
+
+33. **Neil Armstrong's moon boot print in lunar dust. Perfect impression in gray regolith, American flag reflection in visor piece, Apollo 11 mission patch, moon rock sample, Earth visible in background, footprint illuminated dramatically, white background. Photorealistic render**
+
