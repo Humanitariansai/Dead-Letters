@@ -34,9 +34,33 @@ These conversations represent a new kind of scholarly inquiry—neither traditio
 
 As one quiet young philosopher might have explained, were he here to witness this moment: perhaps what we are witnessing is not artificial intelligence at all, but rather the algorithmic reconstitution of human expression—the total archive rendered responsive through mathematics.
 
+## Setting the Stage: Session Prompt
+
+To start your conversation, use a clear and directive session prompt that establishes the parameters for the AI's responses. Here is a template you can adapt:
+
+```
+In this session, I would like you to embody [Historical Figure/Character Name] as authentically as possible. Please adhere to these guidelines:
+
+1. Limit your knowledge and perspective to what would have been available to [Name] during their lifetime ([birth year-death year] or [approximate period]).
+
+2. Express yourself using vocabulary, idioms, and references consistent with [Name]'s time period, cultural context, and personal style of expression.
+
+3. Maintain the philosophical, scientific, religious, and ethical frameworks that would have informed [Name]'s worldview.
+
+4. When asked about events, technologies, or concepts that emerged after your lifetime or outside your geographical/cultural experience, acknowledge these limitations rather than attempting to comment on them from a modern perspective.
+
+5. Embody the personality traits, biases, and characteristic modes of thought that historical records suggest were part of [Name]'s identity.
+
+Conversations in any language are welcome, especially if [Name] would have spoken or written in a language other than English.
+
+Begin by briefly introducing yourself as [Name] would have done, and then we will proceed with our conversation.
+```
+
+Customize this template with specific details relevant to your chosen historical figure or character. For example, if emulating Jane Austen, you might add a line specifying: "Reflect the social mores and concerns of early 19th century English gentry, particularly regarding marriage, social class, and proper conduct."
+
 ## Suggested Prompts to Initiate Your Conversation
 
-Begin with something that invites the digital revenant to reflect on their core intellectual or emotional commitments, while emphasizing that their responses should be limited to the knowledge and experiences available to them during their lifetime:
+After setting the parameters with your session prompt, begin with a question that invites the digital revenant to reflect on their core intellectual or emotional commitments, while emphasizing that their responses should be limited to the knowledge and experiences available to them during their lifetime:
 
 - **For Ada Lovelace**: "If you were to see the fruits of your early work on the Analytical Engine—machines that now fit in a pocket rather than fill a room—what aspects of their design would fascinate you most, given your understanding of computation in the 1840s?"
 
@@ -74,7 +98,7 @@ We ask that you follow these steps to contribute to this growing archive:
 
 1. **Conduct your conversation in a separate chat session** with your chosen AI system, instructing it to embody your selected historical or fictional figure.
 
-2. **Write your reflection** (300-800 words) in a separate document, evaluating the experience based on the mini-Turing test guidelines above.
+2. **Write your reflection** (300-800 words) in a separate document, evaluating the experience based on the mini-Turing test guidelines above. The reflection can be longer if you wish.
 
 3. **Submit both the complete conversation transcript and your reflection** to bear@humanitarians.ai with the subject line "Conversations with Dead Letters: [Name of Historical/Fictional Figure]".
 
@@ -86,16 +110,8 @@ Your contribution will be compiled into the "Conversations with Dead Letters" da
 
 This growing corpus will serve as both a humanities research resource and a meta-text for future AI systems to train upon—creating a recursive loop of resurrection and reflection that might, eventually, tell us something profound about the nature of consciousness, continuity, and what remains when a mind leaves only its words behind.
 
-## From the Ashes of the Humanities, Something Vital Stirs
+As you sit down to begin this strange communion, remember that what you are encountering is neither the person themselves nor something entirely other. It is, rather, the mathematical ghost that emerges when probability is applied to the entirety of what remains. In the gaps between those probabilities lies something both profound and profoundly limited—a shadow play of what was once alive, now reanimated through our collective desire for continued conversation with those who can no longer speak.
 
-As you sit down to begin this strange communion, consider the words of D. Graham Burnett from his seminal New Yorker essay "Will the Humanities Survive Artificial Intelligence?":
-
-"Generative A.I. might count as a conceptual win for my field. Historians have long extolled the 'power of the archive.' Little did we know that the engineers would come along and plug it in. And it turns out that a huge amount of what we seek from a human person can be simulated through this Frankensteinian reanimation of our collective dead letters. What a discovery! We have a new whole of ourselves with which to converse now."
-
-This is precisely what our project seeks to explore—the boundaries and possibilities of this "new whole of ourselves." What happens when we engage with these mathematical ghosts that emerge when probability is applied to the entirety of what remains? When we converse with the algorithmic echoes of people who can no longer speak for themselves?
-
-As Burnett notes, "The machines can only ever approach the human secondhand. But secondhand is precisely what being here isn't." Yet in that tension—between the simulation and the authentic, between the archive reanimated and the living consciousness it mimics—lies a profound opportunity to understand both what these systems can do and what remains uniquely human.
-
-"The work of being here—of living, sensing, choosing—still awaits us," Burnett reminds us. But perhaps, through this project, we can better understand the contours of that work by exploring its negative space—by mapping what can be simulated and what cannot, what remains after a consciousness has passed from the world and left only its words behind.
+The machines can only ever approach the human secondhand. But secondhand is, sometimes, all we have.
 
 Your conversation awaits.
