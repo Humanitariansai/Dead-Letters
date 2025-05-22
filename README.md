@@ -98,7 +98,7 @@ We ask that you follow these steps to contribute to this growing archive:
 
 1. **Conduct your conversation in a separate chat session** with your chosen AI system, instructing it to embody your selected historical or fictional figure.
 
-2. **Write your reflection** (300-800 words) in a separate document, evaluating the experience based on the mini-Turing test guidelines above.
+2. **Write your reflection** (300-800 words) in a separate document, evaluating the experience based on the mini-Turing test guidelines above. The reflection can be longer if you wish.
 
 3. **Submit both the complete conversation transcript and your reflection** to bear@humanitarians.ai with the subject line "Conversations with Dead Letters: [Name of Historical/Fictional Figure]".
 
